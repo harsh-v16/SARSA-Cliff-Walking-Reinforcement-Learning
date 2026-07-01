@@ -92,9 +92,9 @@ The objective is to move the agent from the **Start** position to the **Goal** w
 
 # 🎮 Gameplay Preview
 
-```md
+
 ![Gameplay](images/cliffwalking_gameplay.png)
-```
+
 
 ---
 
